@@ -2,18 +2,13 @@ import random
 from PrimeMega.events import register
 from PrimeMega import telethn
 
-APAKAH_STRING = ["Iya", 
-                 "Tidak", 
-                 "Mungkin", 
-                 "Mungkin Tidak", 
-                 "Bisa jadi", 
+APAKAH_STRING = ["Iya",
+                 "Tidak",
+                 "Mungkin",  
+                 "Bisa jadi",
                  "Mungkin Tidak",
                  "Tidak Mungkin",
                  "YNTKTS",
-                 "Pala bapak kau pecah",
-                 "Apa iya?",
-                 "Tanya aja sama mamak kau tu pler",
-                 "Lu tanya gua, terus gua tanya siapa?"
                  ]
 
 
